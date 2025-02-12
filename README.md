@@ -1,3 +1,3 @@
 <div align=center>
-  <img src="image.png" alt="info" />
+  <a href="itzwazy.us.kg"><img src="image.png" alt="info" /></a>
 </div>
