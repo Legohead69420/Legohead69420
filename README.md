@@ -10,5 +10,5 @@
 
 <div align=center>
   <img src="image.png" alt="info" />
-  <img src="https://readme-jokes.vercel.app/api?hideBorder%23" alt="Jokes Card" />
+  <a href="https://readme-jokes.vercel.app/" target="_blank"><img src="https://readme-jokes.vercel.app/api?hideBorder%23" alt="Jokes Card" /></a>
 </div>
