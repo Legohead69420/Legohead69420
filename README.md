@@ -9,5 +9,6 @@
 <hr>
 
 <div align=center>
+  <img src="image.png" alt="info" />
   <img src="https://readme-jokes.vercel.app/api?hideBorder%23" alt="Jokes Card" />
 </div>
