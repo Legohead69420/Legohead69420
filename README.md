@@ -1,3 +1,5 @@
 <div align=center>
-  <a href="itzwazy.us.kg"><img src="image.png" alt="info" /></a>
+  <a href="https://itzwazy.us.kg" target="_blank">
+    <img src="image.png" alt="info" />
+  </a>
 </div>
